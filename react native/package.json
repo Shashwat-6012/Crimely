@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^6.6.15",
+    "@react-navigation/native": "^6.1.15",
+    "@react-navigation/stack": "^6.3.27",
+    "expo-blur": "^12.9.2",
+    "expo-cli": "^6.3.10"
+  }
+}
